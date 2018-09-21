@@ -1,2 +1,2 @@
 # Hallo-Welt
-The newnew,
+The newnew, initial learning about platform and interface usability.
